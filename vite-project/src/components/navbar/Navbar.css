@@ -1,0 +1,26 @@
+/* Navbar.css */
+*
+
+.navbar {
+    display: flex;
+        justify-content: space-between;
+        background-color: rgb(99, 114, 101);
+        padding: 10px;
+        color: white;
+        width: 99vw;
+        position: fixed;
+        top: 0;
+        left: 0;
+  }
+  
+  .left-item,
+  .right-item {
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .left-item:hover,
+  .right-item:hover {
+    background-color: #555;
+  }
+  

@@ -1,0 +1,22 @@
+.body{
+
+    margin: 0;
+}
+.body-main{
+    height: 100%;
+    width: 100%;
+}
+.heading-left{
+    margin-top: 50px;
+    text-align: left;
+}
+.heading-center{
+    margin-top: 50px;
+    text-align: center;
+}
+.body-footer
+{
+    display: flex;
+    justify-content: space-between;
+    /* background-color: rgb(209, 205, 205); */
+}

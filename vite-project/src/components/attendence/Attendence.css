@@ -1,0 +1,65 @@
+/* YourComponent.css */
+
+  .attendence-main{
+    background-color: #eee9e9;
+  }
+  /* Style the heading */
+  h1 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px; /* Add margin as needed */
+  }
+  
+  /* Style the table */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px; /* Add margin as needed */
+    background-color: #f2f2f2; /* Light gray background color */
+  }
+  
+  /* Style the table headings */
+  th {
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  /* Style the table cells */
+  td {
+    padding: 10px;
+  }
+  
+  .red-box {
+    background-color: #dc1919;
+    height: 15px;
+    width: 20px;
+    padding: 5px; /* Add padding as needed */
+  }
+  
+  /* Style for green-colored box */
+  .green-box {
+    height: 15px;
+    width: 20px;
+    background-color: rgb(128, 232, 128); /* Light green for present cells */
+    padding: 30px; /* Add padding as needed */
+  }
+  .attendence-fn{
+    position: absolute;
+    top: 40%;
+    right: 5%;
+
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  .attendence-an{
+    position: absolute;
+    top: 50%;
+    right: 5%;
+
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+  }

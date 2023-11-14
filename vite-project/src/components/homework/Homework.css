@@ -1,0 +1,15 @@
+.hw-main{
+    background-color: #eee9e9;
+    height: 270px;
+    width: 45%;
+}
+
+.hw-items ul div{
+    display: flex;
+    font-size: 20px;
+    justify-items: left;
+    padding: 10px;
+}
+.hw-body{
+    font-size: 25px;
+}
